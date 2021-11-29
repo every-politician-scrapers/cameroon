@@ -7,7 +7,7 @@ require 'every_politician_scraper/comparison'
 # TODO: make sure all are included
 class Comparison < EveryPoliticianScraper::Comparison
   def external
-    @external ||= super.delete_if { |row| !row[:position].start_with? /(Prime Minister|Minist.. of (?!State,)|Director)/ }
+    @external ||= super.delete_if { |row| !row[:position].start_with? /(Prime Minister|Minist.. of|Director|Secr.tary.General)/ }
   end
 end
 
