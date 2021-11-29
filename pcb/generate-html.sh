@@ -64,7 +64,7 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '\t%s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv join --left-anti pid data/wikidata.csv position wikidata/wanted-positions.csv | qsv select pid,position | qsv behead))
+warnings=($(qsv join --left-anti pid data/wikidata.csv position wikidata/wanted-positions.csv | qsv select pid,position | qsv sort -s position | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "In data/wikidata but not wanted-positions:"
   printf '\t%s\n' "${warnings[@]}"
