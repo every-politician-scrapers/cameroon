@@ -161,34 +161,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "Sources",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "authority control"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Portail du gouvernement camerounais",
-            "links": [
-              {
-                "text": "Portail du gouvernement camerounais",
-                "type": "external",
-                "site": "http://www.spm.gov.cm/"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
