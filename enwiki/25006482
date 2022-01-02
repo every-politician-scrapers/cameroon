@@ -55,21 +55,6 @@
           "description": "Cameroonian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.osidimbea.cm/institutions/gouvernement/finances/",
-          "title": "Histoire du ministère des Finances, Cameroun",
-          "website": "Osidimbea La Mémoire du Cameroun. Encyclopédie, annuaire. Histoire des organisations",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
