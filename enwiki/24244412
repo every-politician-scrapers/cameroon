@@ -105,21 +105,6 @@
             "text": "CavayeYeguie.jpg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.osidimbea.cm/institutions/assemblee-nationale/",
-          "title": "Assemblée Nationale",
-          "website": "Osidimbea La Mémoire du Cameroun. Encyclopédie, annuaire. Histoire des organisations",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

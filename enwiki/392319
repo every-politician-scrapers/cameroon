@@ -351,39 +351,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Emvana",
-          "first": "Michel Roger",
-          "url": "https://books.google.com/books?id=ypWQjMONIlcC&q=Paul+Biya+premier+fils+est+adopt%C3%A9&pg=PA187",
-          "title": "Paul Biya: les secrets du pouvoir",
-          "date": "2005",
-          "publisher": "KARTHALA Editions",
-          "isbn": "978-2-84586-684-3",
-          "language": "fr",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "http://www.cameroonvoice.com/news/article-news-8679.html",
-          "title": "Elections. La fraude \"made in Cameroon\" fait fureur",
-          "website": "www.cameroonvoice.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
