@@ -1,1 +1,6 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q23816933,Q23816933,,,,,,,,,Q25389497,Q25389497,,,,,,
+,Q25389497,Q25389497,,,,,,,,,,,Q23816933,Q23816933,,,,
+,Q56306199,Q56306199,,,,,,,,,,,,,,,,
+,Q28498899,Q28498899,2015-10-02,11,,,2018-03-01,11,,,,,,,,,,
+,Q60852905,Q60852905,2019-01-04,11,,,,,,,,,,,,,,
