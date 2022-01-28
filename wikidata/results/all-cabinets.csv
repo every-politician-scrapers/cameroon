@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q23816933,Q23816933,,,,,,,,,Q25389497,1st Yang Cabinet,,,,,,
-,Q25389497,1st Yang Cabinet,2009-06-30,11,,,2011-12-08,11,,,,,Q23816933,Q23816933,,,,
+,Q25389497,1st Yang Cabinet,2009-06-30,11,,,2011-12-08,11,,,,,Q23816933,2nd Yang Cabinet,,,,
+,Q23816933,2nd Yang Cabinet,2011-12-09,11,,,2015-10-01,11,,,Q25389497,1st Yang Cabinet,,,,,,
 ,Q28498899,Q28498899,2015-10-02,11,,,2018-03-01,11,,,,,,,,,,
 ,Q56306199,4th Yang Government,2018-03-02,11,,,2019-01-04,11,,,,,,,,,,
 ,Q60852905,Ngute Cabinet,2019-01-04,11,,,,,,,,,,,,,,
