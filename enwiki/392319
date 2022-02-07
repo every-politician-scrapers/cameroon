@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Paul Biya (born Paul Barthélemy Biya'a bi Mvondo; 13 February 1933) is a Cameroonian politician serving as the president of Cameroon since 6 November 1982.",
+              "text": "Paul Biya (born Paul Barthélemy Biya'a bi Mvondo; 13 February 1933) is a Cameroonian politician who has served as the president of Cameroon since 6 November 1982.",
               "links": [
                 {
                   "text": "Cameroonian",
@@ -38,23 +38,22 @@
               ],
               "formatting": {
                 "bold": [
-                  "Paul Biya",
-                  "Paul Barthélemy Biya'a bi Mvondo"
+                  "Paul Biya"
                 ]
               }
             },
             {
-              "text": "He is the second-longest-ruling president in Africa, the longest-ruling non-royal leader in the world, and the oldest head of state in Africa.",
+              "text": "He is the second-longest-ruling president in Africa, the oldest head of state in Africa, and the longest-ruling non-royal leader in the world.",
               "links": [
-                {
-                  "text": "longest-ruling",
-                  "type": "internal",
-                  "page": "List of current state leaders by date of assumption of office"
-                },
                 {
                   "text": "oldest head of state",
                   "type": "internal",
                   "page": "Lists of state leaders by age"
+                },
+                {
+                  "text": "longest-ruling",
+                  "type": "internal",
+                  "page": "List of current state leaders by date of assumption of office"
                 }
               ]
             }
@@ -76,44 +75,20 @@
               ]
             },
             {
-              "text": "He succeeded Ahidjo as president upon the latter's surprise resignation in 1982 and consolidated power in a 1983–1984 staged attempted coup in which he eliminated all his rivals."
+              "text": "He succeeded Ahidjo as president upon the latter's surprise resignation in 1982 and consolidated power in a 1983–1984 staged attempted coup in which he eliminated all of his major rivals."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "His regime is supported by France, which supplies it with weapons and trains its forces.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "France"
-                }
-              ]
-            },
-            {
-              "text": "France is the leading foreign investor in Cameroon, ahead of the United States."
-            },
-            {
-              "text": "One hundred and five French subsidiaries are located in all key sectors (oil, timber, construction, mobile telephony, transport, banking, insurance, etc.)."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Biya introduced political reforms within the context of a one-party system in the 1980s.",
+              "text": "Biya introduced political reforms within the context of a one-party system in the 1980s, later accepting the introduction of multiparty politics in the early 1990s under serious pressure.",
               "links": [
                 {
                   "text": "one-party system",
                   "type": "internal",
                   "page": "one-party system"
-                }
-              ]
-            },
-            {
-              "text": "Under serious pressure, he accepted the introduction of multiparty politics in the early 1990s.",
-              "links": [
+                },
                 {
                   "text": "multiparty politics",
                   "type": "internal",
@@ -156,6 +131,22 @@
             },
             {
               "text": "Many independent sources have provided evidence that he did not win the elections in 1992 and that subsequent elections suffered from rampant fraud."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His regime is supported by France, the former colonial power in Cameroon, which supplies it with weapons and trains its military forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "France"
+                }
+              ]
+            },
+            {
+              "text": "France is also the leading foreign investor in Cameroon, ahead of the United States."
             }
           ]
         }
