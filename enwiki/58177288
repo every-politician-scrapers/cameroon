@@ -21,6 +21,10 @@
           "template": "blp sources"
         },
         {
+          "date": "March 2022",
+          "template": "lead missing"
+        },
+        {
           "template": "multiple issues"
         }
       ],
@@ -36,7 +40,7 @@
             "text": "Cameroon Minister of Social Affairs"
           },
           "term_start1": {
-            "text": "02 October 2015"
+            "text": "2 October 2015"
           },
           "president1": {
             "text": "Paul Biya",
