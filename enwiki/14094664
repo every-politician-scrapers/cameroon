@@ -1,261 +1,33 @@
 {
-  "title": "Henri Eyebe Ayissi",
-  "pageID": 14094664,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Cameroonian diplomats",
-    "Government ministers of Cameroon"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Henri Eyebe Ayissi (born September 24, 1955 ) is a Cameroonian politician and diplomat who served in the government of Cameroon as Minister of Foreign Relations from 2007 to 2011.",
-              "links": [
-                {
-                  "text": "Cameroonian",
-                  "type": "internal",
-                  "page": "Cameroon"
-                },
-                {
-                  "text": "Minister of Foreign Relations",
-                  "type": "internal",
-                  "page": "foreign minister"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Henri Eyebe Ayissi"
-                ]
-              }
-            },
-            {
-              "text": "He was Minister-Delegate at the Presidency for the Higher Audit Office from 2011 to 2015 and has been Minister of Agriculture since 2015."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Cameroonian politician and diplomat",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "year": "1955",
-          "month": "09",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Henri Eyebe Ayissi"
-          },
-          "image": {
-            "text": "Meeting Foreign Minister of Cameroon (6170457990) cropped.jpg"
-          },
-          "office1": {
-            "text": "Cameroon Minister of Agriculture and Rural Development"
-          },
-          "term_start1": {
-            "text": "02 October 2015"
-          },
-          "president1": {
-            "text": "Paul Biya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Biya"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Philémon Yang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philémon Yang"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Lazare Essimi Menye"
-          },
-          "office2": {
-            "text": "Minister Delegate at the Presidency in charge of Supreme State Control"
-          },
-          "term_start2": {
-            "text": "09 December 2011"
-          },
-          "term_end2": {
-            "text": "01 October 2015"
-          },
-          "president2": {
-            "text": "Paul Biya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Biya"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Philémon Yang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philémon Yang"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Siegfried David Etame Massoma"
-          },
-          "successor2": {
-            "text": "Fomudam Rose Ngwari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fomudam Rose Ngwari"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Cameroon Minister of External Relations"
-          },
-          "term_start3": {
-            "text": "07 September 2007"
-          },
-          "term_end3": {
-            "text": "08 December 2011"
-          },
-          "president3": {
-            "text": "Paul Biya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Biya"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Ephraïm Inoni Philémon Yang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ephraïm Inoni"
-              },
-              {
-                "type": "internal",
-                "page": "Philémon Yang"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Jean-Marie Atangana Mebara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Marie Atangana Mebara"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Pierre Moukoko Mbonjo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pierre Moukoko Mbonjo"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Cameroon Minister of Urban Planning and Housing"
-          },
-          "term_start4": {
-            "text": "08 September 1990"
-          },
-          "term_end4": {
-            "text": "26 November 1992"
-          },
-          "president4": {
-            "text": "Paul Biya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Biya"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Sadou Hayatou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sadou Hayatou"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 24, 1955"
-          },
-          "birth_place": {
-            "text": "Douala (Cameroon)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Douala"
-              },
-              {
-                "type": "internal",
-                "page": "Cameroon"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Cameroonian",
-            "links": [
-              {
-                "text": "Cameroonian",
-                "type": "internal",
-                "page": "Cameroon"
-              }
-            ]
-          },
-          "party": {
-            "text": "CPDM",
-            "links": [
-              {
-                "text": "CPDM",
-                "type": "internal",
-                "page": "Cameroon People's Democratic Movement"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Yaoundé ENAM",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Yaoundé"
-              },
-              {
-                "text": "ENAM",
-                "type": "internal",
-                "page": "National School of Administration and Magistracy (Cameroon)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Henri Eyebe Ayissi",
+  "image": "Meeting Foreign Minister of Cameroon (6170457990) cropped.jpg",
+  "office1": "Cameroon Minister of Agriculture and Rural Development",
+  "term_start1": "02 October 2015",
+  "president1": "Paul Biya",
+  "primeminister1": "Philémon Yang",
+  "predecessor1": "Lazare Essimi Menye",
+  "office2": "Minister Delegate at the Presidency in charge of Supreme State Control",
+  "term_start2": "09 December 2011",
+  "term_end2": "01 October 2015",
+  "president2": "Paul Biya",
+  "primeminister2": "Philémon Yang",
+  "predecessor2": "Siegfried David Etame Massoma",
+  "successor2": "Fomudam Rose Ngwari",
+  "office3": "Cameroon Minister of External Relations",
+  "term_start3": "07 September 2007",
+  "term_end3": "08 December 2011",
+  "president3": "Paul Biya",
+  "primeminister3": "Ephraïm Inoni Philémon Yang",
+  "predecessor3": "Jean-Marie Atangana Mebara",
+  "successor3": "Pierre Moukoko Mbonjo",
+  "office4": "Cameroon Minister of Urban Planning and Housing",
+  "term_start4": "08 September 1990",
+  "term_end4": "26 November 1992",
+  "president4": "Paul Biya",
+  "primeminister4": "Sadou Hayatou",
+  "birth_date": "September 24, 1955",
+  "birth_place": "Douala (Cameroon)",
+  "nationality": "Cameroonian",
+  "party": "CPDM",
+  "alma_mater": "University of Yaoundé ENAM"
 }

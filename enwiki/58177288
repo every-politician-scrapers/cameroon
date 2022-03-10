@@ -1,114 +1,13 @@
 {
-  "title": "Pauline Irene Nguene",
-  "pageID": 58177288,
-  "categories": [
-    "Cameroonian women in politics",
-    "Living people",
-    "Cameroon People's Democratic Movement politicians",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "templates": [
-        {
-          "date": "March 2019",
-          "template": "orphan"
-        },
-        {
-          "date": "September 2018",
-          "template": "blp sources"
-        },
-        {
-          "date": "March 2022",
-          "template": "lead missing"
-        },
-        {
-          "template": "multiple issues"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Pauline Irene Nguene"
-          },
-          "image": {
-            "text": "PaulineIreneNguene.jpg"
-          },
-          "office1": {
-            "text": "Cameroon Minister of Social Affairs"
-          },
-          "term_start1": {
-            "text": "2 October 2015"
-          },
-          "president1": {
-            "text": "Paul Biya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Biya"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Dion Ngute",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dion Ngute"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Yaounde Cameroun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cameroun"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Cameroonian",
-            "links": [
-              {
-                "text": "Cameroonian",
-                "type": "internal",
-                "page": "Cameroon"
-              }
-            ]
-          },
-          "party": {
-            "text": "CPDM",
-            "links": [
-              {
-                "text": "CPDM",
-                "type": "internal",
-                "page": "Cameroon People's Democratic Movement"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "New Mexico Institute of Mining and Technology (USA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Mexico Institute of Mining and Technology (USA)"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Petroleum Engineer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Petroleum Engineer"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Pauline Irene Nguene",
+  "image": "PaulineIreneNguene.jpg",
+  "office1": "Cameroon Minister of Social Affairs",
+  "term_start1": "2 October 2015",
+  "president1": "Paul Biya",
+  "primeminister1": "Dion Ngute",
+  "birth_place": "Yaounde Cameroun",
+  "nationality": "Cameroonian",
+  "party": "CPDM",
+  "alma_mater": "New Mexico Institute of Mining and Technology (USA)",
+  "profession": "Petroleum Engineer"
 }
