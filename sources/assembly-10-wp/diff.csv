@@ -1,181 +1,171 @@
 @@,item,name,party,partylabel
-+++,,Abba Alim,Q6979097,UNDP
-+++,,Abe Mkheal Ndra,Q953447,RDPC
-+++,,Abomo Fama Margueritte Aline,Q953447,RDPC
-+++,,Adama Epse Djibrine,Q953447,RDPC
-+++,,Adamu Edward Lambe,Q953447,RDPC
-+++,,Agbwah Ntiba Eric,Q953447,RDPC
-+++,,Agho Olivier,Q953447,RDPC
-+++,,Aka Martin Tyoga,Q953447,RDPC
-+++,Q23001643,Albert Kouinche,Q953447,RDPC
-+++,,Ali Adjit,Q953447,RDPC
-+++,,Ali Mamouda,Q953447,RDPC
-+++,,Ali Salihou,Q953447,RDPC
-+++,,Aliyoum Fadil,Q953447,RDPC
-+++,,Aminatou Abbo,Q6979097,UNDP
-+++,,Anyere Charles,Q953447,RDPC
-+++,,Atangana Aligui Celine Catherine épouse Mendouga,Q953447,RDPC
-+++,,Ateawung Foju Bernard,Q953447,RDPC
-+++,,Awutah Philip,Q953447,RDPC
-+++,,Banmi Emmanuel Dingha,Q953447,RDPC
-+++,,Baoro Theophile,Q953447,RDPC
-+++,,Bara Julien,Q953447,RDPC
-+++,,Bekono Ebah Epse Ndoumou,Q953447,RDPC
-+++,,Bello Limane,Q953447,RDPC
-+++,,Benae Serge Gabriel,Q953447,RDPC
-+++,,Biba Francois Prostin,Q97177912,PCRN
-+++,,Biloa Tsilla Nzitha Marie Isabelle,Q953447,RDPC
-+++,,Bindoua Mathurin Germain,Q953447,RDPC
-+++,,Bithbini Rosaline,Q953447,RDPC
-+++,Q105971259,Bonaventure Mvondo Assam,Q953447,RDPC
-+++,,Bouba Moussa,Q953447,RDPC
-+++,,Boubakari Djidda,Q111340112,FSNC
-+++,Q4160254,Cavaye Yeguié Djibril,Q953447,RDPC
-+++,,Cecilia Dione Epse Njumbe,Q953447,RDPC
-+++,Q107253305,Colette Kam Sohaing,Q953447,RDPC
-+++,,Dague Aïcha Blanche Jacqueline,Q15195678,MDR
-+++,,Damdam Marie,Q953447,RDPC
-+++,,Dimbele Boui,Q953447,RDPC
-+++,,Dissake Marguerite Epse Ekoka,Q953447,RDPC
-+++,,Djabou Marie Solange,Q953447,RDPC
-+++,,Djeumeni Benilde,Q1470113,SDF
-+++,,Djibrilla Kaou,Q953447,RDPC
-+++,,Djomgoue Paul Eric,Q953447,RDPC
-+++,,Donald Malomba Esembe,Q953447,RDPC
-+++,,Dooh Collins Albert Kouoh,Q953447,RDPC
-+++,,Douvaouissa Aissa Hamadi,Q6979097,UNDP
-+++,,Ebangha Epouse Agbor ntui Johanna,Q953447,RDPC
-+++,,Ekolle Peters,Q953447,RDPC
-+++,,Elise Ndongo Moutome épouse Pokossy Ndoumbe,Q953447,RDPC
-+++,,Emabot Brigitte,Q953447,RDPC
+->,Q111340963->NULL,Abba Alim,Q6979097,UNDP
+->,Q111340964->NULL,Abe Mkheal Ndra,Q953447,RDPC
+->,Q111340969->NULL,Abomo Fama Margueritte Aline,Q953447,RDPC
+->,Q111340970->NULL,Adama Epse Djibrine,Q953447,RDPC
+->,Q111340971->NULL,Adamu Edward Lambe,Q953447,RDPC
+->,Q111340972->NULL,Agbwah Ntiba Eric,Q953447,RDPC
+->,Q111340973->NULL,Agho Olivier,Q953447,RDPC
+->,Q111340974->NULL,Aka Martin Tyoga,Q953447,RDPC
+->,Q111340975->NULL,Ali Adjit,Q953447,RDPC
+->,Q111340976->NULL,Ali Mamouda,Q953447,RDPC
+->,Q111340977->NULL,Ali Salihou,Q953447,RDPC
+->,Q111340978->NULL,Aliyoum Fadil,Q953447,RDPC
+->,Q111340979->NULL,Aminatou Abbo,Q6979097,UNDP
+->,Q111340980->NULL,Anyere Charles,Q953447,RDPC
+->,Q111340982->NULL,Atangana Aligui Celine Catherine épouse Mendouga,Q953447,RDPC
+->,Q111340983->NULL,Ateawung Foju Bernard,Q953447,RDPC
+->,Q111340984->NULL,Awutah Philip,Q953447,RDPC
+->,Q111340985->NULL,Banmi Emmanuel Dingha,Q953447,RDPC
+->,Q111340986->NULL,Baoro Theophile,Q953447,RDPC
+->,Q111340987->NULL,Bara Julien,Q953447,RDPC
+->,Q111340989->NULL,Bekono Ebah Epse Ndoumou,Q953447,RDPC
+->,Q111340990->NULL,Bello Limane,Q953447,RDPC
+->,Q111340991->NULL,Benae Serge Gabriel,Q953447,RDPC
+->,Q111340993->NULL,Biba Francois Prostin,Q97177912,PCRN
+->,Q111340994->NULL,Biloa Tsilla Nzitha Marie Isabelle,Q953447,RDPC
+->,Q111340995->NULL,Bindoua Mathurin Germain,Q953447,RDPC
+->,Q111340996->NULL,Bithbini Rosaline,Q953447,RDPC
+->,Q111340997->NULL,Bouba Moussa,Q953447,RDPC
+->,Q111340998->NULL,Boubakari Djidda,Q111340112,FSNC
+->,Q111340999->NULL,Cecilia Dione Epse Njumbe,Q953447,RDPC
+->,Q111341000->NULL,Dague Aïcha Blanche Jacqueline,Q15195678,MDR
+->,Q111341001->NULL,Damdam Marie,Q953447,RDPC
+->,Q111341002->NULL,Dimbele Boui,Q953447,RDPC
+->,Q111341003->NULL,Dissake Marguerite Epse Ekoka,Q953447,RDPC
+->,Q111341004->NULL,Djabou Marie Solange,Q953447,RDPC
+->,Q111341005->NULL,Djeumeni Benilde,Q1470113,SDF
+->,Q111341006->NULL,Djibrilla Kaou,Q953447,RDPC
+->,Q111341010->NULL,Djomgoue Paul Eric,Q953447,RDPC
+->,Q111341011->NULL,Donald Malomba Esembe,Q953447,RDPC
+->,Q111341012->NULL,Dooh Collins Albert Kouoh,Q953447,RDPC
+->,Q111341013->NULL,Douvaouissa Aissa Hamadi,Q6979097,UNDP
+->,Q111341014->NULL,Ebangha Epouse Agbor ntui Johanna,Q953447,RDPC
+->,Q111341015->NULL,Ekolle Peters,Q953447,RDPC
+->,Q111341016->NULL,Elise Ndongo Moutome épouse Pokossy Ndoumbe,Q953447,RDPC
+->,Q111341017->NULL,Emabot Brigitte,Q953447,RDPC
+---,Q111341019,Emah Etoundi Vincent De Paul,Q953447,RDPC
+---,Q111341018,Emah Etoundi Vincent De Paul,Q953447,RDPC
 +++,,Emah Etoundi Vincent De Paul,Q953447,RDPC
 +++,,Emah Etoundi Vincent De Paul,Q953447,RDPC
-+++,Q106576581,Emilia Monjowa Lifaka,Q953447,RDPC
-+++,,Essomba Bengono Engelbert Alain,Q953447,RDPC
-+++,,Essono Francis Lin Mathieu,Q953447,RDPC
-+++,,Etong Hilarion,Q953447,RDPC
-+++,,Evina Ovambe Bernadette Epse Aboui,Q953447,RDPC
-+++,,Eyoum Minono épouse Epoube Lydienne,Q953447,RDPC
-+++,,Fadimatou Sambo,Q953447,RDPC
-+++,,Fandja Gabriel,Q953447,RDPC
-+++,,Feutheu Jean Claude,Q953447,RDPC
-+++,,Findi Stanley Mokondo,Q953447,RDPC
-+++,,Fongue Fongouk Julius,Q953447,RDPC
-+++,,Ghimbop Josephine,Q953447,RDPC
-+++,,Gonondo Jean,Q953447,RDPC
-+++,,Guiswe Badoma,Q15195678,MDR
-+++,,Halia Moussa Moufta,Q953447,RDPC
-+++,Q18414272,Hamadou Sali,Q953447,RDPC
-+++,,Haman Tchiouto,Q953447,RDPC
-+++,,Harouna Abdoulaye,Q953447,RDPC
-+++,,Harouna Nyako,Q953447,RDPC
-+++,Q39156537,Hermine Patricia Tomaino Ndam Njoya,Q3550257,UDC
-+++,,Ibrahima Bobbo Bello,Q6979097,UNDP
-+++,,Injoh Fo’o Ngang Prudencia,Q953447,RDPC
-+++,Q15713969,Jean-Michel Nintcheu,Q1470113,SDF
+->,Q111341020->NULL,Essomba Bengono Engelbert Alain,Q953447,RDPC
+->,Q111341021->NULL,Essono Francis Lin Mathieu,Q953447,RDPC
+->,Q111341022->NULL,Etong Hilarion,Q953447,RDPC
+->,Q111341023->NULL,Evina Ovambe Bernadette Epse Aboui,Q953447,RDPC
+->,Q111341024->NULL,Eyoum Minono épouse Epoube Lydienne,Q953447,RDPC
+->,Q111341025->NULL,Fadimatou Sambo,Q953447,RDPC
+->,Q111341026->NULL,Fandja Gabriel,Q953447,RDPC
+->,Q111341027->NULL,Feutheu Jean Claude,Q953447,RDPC
+->,Q111341028->NULL,Findi Stanley Mokondo,Q953447,RDPC
+->,Q111341029->NULL,Fongue Fongouk Julius,Q953447,RDPC
+->,Q111341031->NULL,Ghimbop Josephine,Q953447,RDPC
+->,Q111341032->NULL,Gonondo Jean,Q953447,RDPC
+->,Q111341033->NULL,Guiswe Badoma,Q15195678,MDR
+->,Q111341034->NULL,Halia Moussa Moufta,Q953447,RDPC
+->,Q111341035->NULL,Haman Tchiouto,Q953447,RDPC
+->,Q111341036->NULL,Harouna Abdoulaye,Q953447,RDPC
+->,Q111341037->NULL,Harouna Nyako,Q953447,RDPC
+->,Q111341038->NULL,Ibrahima Bobbo Bello,Q6979097,UNDP
+->,Q111341039->NULL,Injoh Fo’o Ngang Prudencia,Q953447,RDPC
 ->,Q38459914,Joshua Osih->Joshua Nambangi Osih,NULL->Q1470113,NULL->SDF
-+++,,Juimo Monthe Siewe Claude,Q953447,RDPC
-+++,,Kamssouloum Abba Kabir,Q953447,RDPC
-+++,,Kenfack Sonna Ngueguim Anastasie,Q953447,RDPC
-+++,,Koa Mfeugue Laurentine epouse Mbede,Q953447,RDPC
-+++,,Koa Songo,Q953447,RDPC
-+++,,Kombo Gberi,Q953447,RDPC
-+++,,Kum John,Q953447,RDPC
-+++,,Kumase Simon,Q953447,RDPC
-+++,,Kwarmba Solange,Q953447,RDPC
-+++,,Kwei Andrew Mngo,Q953447,RDPC
-+++,,Kwemo Pierre,Q111340117,UMS
-+++,,Lawson Tabot Bakia,Q953447,RDPC
-+++,,Libii Li Ngue Ngue Cabral,Q97177912,PCRN
-+++,,Lukong Fostine,Q953447,RDPC
-+++,,Magouo Salome,Q953447,RDPC
-+++,,Man Jacqueline Christiane,Q953447,RDPC
-+++,,Manamourou épouse Silikam,Q953447,RDPC
-+++,,Mandio William Peter,Q953447,RDPC
-+++,,Manfouo David,Q953447,RDPC
-+++,,Margaza Alaou Abel Maggi,Q953447,RDPC
-+++,,Mariam Goni,Q953447,RDPC
-+++,,Mary Muyali Boya épouse Meboka,Q953447,RDPC
-+++,,Mbakam Chouga Guillaume,Q953447,RDPC
-+++,,Mballa Ngobo Catherine épouse Mfoula,Q953447,RDPC
-+++,,Mbapte Jean-Baptiste,Q953447,RDPC
-+++,,Mbarga Assembe Luc Roger,Q953447,RDPC
-+++,,Mbe Assae Mendomo Theodore,Q953447,RDPC
-+++,,Mbede Pierre Petrus,Q953447,RDPC
-+++,,Mbeyo'o Josue,Q953447,RDPC
-+++,,Mbongyor Naomi Ngando,Q953447,RDPC
-+++,,Mbouangouere Rainatou Epse Mongwat,Q3550257,UDC
-+++,,Mbuwir Tobias,Q953447,RDPC
-+++,,Mekongo Helene épouse Atangana,Q953447,RDPC
-+++,,Melingui Roger,Q953447,RDPC
-+++,,Memouna Mahamat,Q953447,RDPC
-+++,,Mengue Mezui Germain Durand,Q953447,RDPC
-+++,,Mohamadou Mahdi,Q953447,RDPC
-+++,,Moth Samuel Dieudonne,Q953447,RDPC
-+++,,Moumini Oumarou,Q953447,RDPC
-+++,,Moussous Lississou,Q953447,RDPC
-+++,,Moutymboh Rosette Julienne Epse Ayayi,Q953447,RDPC
-+++,,Mpon Francois Xavier,Q953447,RDPC
-+++,,N'nolo épouse Onobiono Marie Suzanne,Q953447,RDPC
-+++,,Nanga Marthe épouse Menana,Q953447,RDPC
-+++,,Nanga Mefant Berthe Epse Owono,Q953447,RDPC
-+++,,Ndam,Q3550257,UDC
-+++,,Ndjip Bienvenu,Q97177912,PCRN
-+++,,Ndongho Clement,Q953447,RDPC
-+++,,Ndongo Essomba Jean Bernard,Q953447,RDPC
-+++,,Ndongo Eteme Edgard,Q953447,RDPC
-+++,,Ndzie Frank Eric,Q953447,RDPC
-+++,,Nestus Fru Manju,Q953447,RDPC
-+++,,Ngaba Zogo Salome,Q953447,RDPC
-+++,,Ngah Estella Shala,Q953447,RDPC
-+++,,Ngahane,Q953447,RDPC
-+++,,Ngala Gerard Ndombang,Q953447,RDPC
-+++,,Ngalle Daniel Etongo,Q953447,RDPC
-+++,,Ngantcha Louis Henri,Q953447,RDPC
-+++,,Ngbanbaye Antoinette,Q953447,RDPC
-+++,,Ngnegue Simon,Q953447,RDPC
-+++,,Ngo Issi Rolande Adele,Q97177912,PCRN
-+++,Q106975887,Ngo Yetna Marinette Epse Mbeleg,Q953447,RDPC
-+++,,Ngoko Mambe Marie Louise,Q953447,RDPC
-+++,,Nguenkam Epse Tchouaga Marie-Louise,Q111340117,UMS
-+++,,Nikina Pierre,Q953447,RDPC
-+++,,Njingum Musa Mbutoh,Q953447,RDPC
-+++,,Njong Evaristus Ndim,Q1470113,SDF
-+++,,Njume Peter Ambang,Q953447,RDPC
-+++,Q95511969,Nourane Moluh Hassana,Q97177912,PCRN
-+++,,Oumoul Koultchoumi épouse Ahidjo Mohamadou,Q6979097,UNDP
-+++,,Ousmanou Aman Sa' Aly,Q111340112,FSNC
-+++,,Ousmanou Dawaï,Q953447,RDPC
-+++,,Pongoh Emmanuel,Q953447,RDPC
-+++,,Prince Mikody Ange Gilbert,Q953447,RDPC
-+++,Q21866844,Roger Nkodo Dang,Q953447,RDPC
-+++,,Salamana Amadou Ali Ii,Q111340112,FSNC
-+++,,Salomon Douvogo,Q953447,RDPC
-+++,,Sambo Galdima,Q953447,RDPC
-+++,,Saraou Bernadette,Q953447,RDPC
-+++,,Saya Kaigama,Q953447,RDPC
-+++,,Sime Pierre,Q953447,RDPC
-+++,,Soppo Toute Marlyse,Q953447,RDPC
-+++,,Tabouli Celestin,Q953447,RDPC
-+++,,Tak Bienvenu,Q953447,RDPC
-+++,,Tanefo Jean Marie,Q953447,RDPC
-+++,,Tassi Evelyne Chantal Denise Epse Ayissi,Q953447,RDPC
-+++,,Tchagna Jaqueline Reve Angeline,Q953447,RDPC
-+++,,Tchende Mahama,Q953447,RDPC
-+++,,Tekoura Paul Blaise,Q953447,RDPC
-+++,,Teku Tanyi Teku,Q953447,RDPC
-+++,Q110511220,Théodore Datouo,Q953447,RDPC
-+++,,Tikobau Pierre Marie,Q953447,RDPC
-+++,,Tombi Ikome Gladys,Q953447,RDPC
-+++,,Toukam Angele Tela,Q953447,RDPC
-+++,,Tsingang Flobert,Q1470113,SDF
-+++,,Wa Mathurin Martial,Q953447,RDPC
-+++,,Wainachi Nentoh Honourine,Q1470113,SDF
-+++,,Wallang Richard,Q953447,RDPC
-+++,,Yacouba Yaya,Q953447,RDPC
-+++,,Yaouba Alhadji,Q6979097,UNDP
-+++,,Yaya Doumba Marius,Q953447,RDPC
-+++,,Yebga Judith Sama Epse Mouokuio,Q953447,RDPC
-+++,,Youmo Nkoupit Adamou,Q3550257,UDC
-+++,,Zam Jean Jacques Noël,Q953447,RDPC
-+++,,Zondol Herssesse,Q953447,RDPC
+->,Q111341040->NULL,Juimo Monthe Siewe Claude,Q953447,RDPC
+->,Q111341041->NULL,Kamssouloum Abba Kabir,Q953447,RDPC
+->,Q111341042->NULL,Kenfack Sonna Ngueguim Anastasie,Q953447,RDPC
+->,Q111341043->NULL,Koa Mfeugue Laurentine epouse Mbede,Q953447,RDPC
+->,Q111341044->NULL,Koa Songo,Q953447,RDPC
+->,Q111341045->NULL,Kombo Gberi,Q953447,RDPC
+->,Q111341046->NULL,Kum John,Q953447,RDPC
+->,Q111341047->NULL,Kumase Simon,Q953447,RDPC
+->,Q111341048->NULL,Kwarmba Solange,Q953447,RDPC
+->,Q111341049->NULL,Kwei Andrew Mngo,Q953447,RDPC
+->,Q111341050->NULL,Kwemo Pierre,Q111340117,UMS
+->,Q111341051->NULL,Lawson Tabot Bakia,Q953447,RDPC
+->,Q111341052->NULL,Libii Li Ngue Ngue Cabral,Q97177912,PCRN
+->,Q111341053->NULL,Lukong Fostine,Q953447,RDPC
+->,Q111341054->NULL,Magouo Salome,Q953447,RDPC
+->,Q111341055->NULL,Man Jacqueline Christiane,Q953447,RDPC
+->,Q111341056->NULL,Manamourou épouse Silikam,Q953447,RDPC
+->,Q111341058->NULL,Mandio William Peter,Q953447,RDPC
+->,Q111341059->NULL,Manfouo David,Q953447,RDPC
+->,Q111341060->NULL,Margaza Alaou Abel Maggi,Q953447,RDPC
+->,Q111341061->NULL,Mariam Goni,Q953447,RDPC
+->,Q111341062->NULL,Mary Muyali Boya épouse Meboka,Q953447,RDPC
+->,Q111341063->NULL,Mbakam Chouga Guillaume,Q953447,RDPC
+->,Q111341064->NULL,Mballa Ngobo Catherine épouse Mfoula,Q953447,RDPC
+->,Q111341065->NULL,Mbapte Jean-Baptiste,Q953447,RDPC
+->,Q111341066->NULL,Mbarga Assembe Luc Roger,Q953447,RDPC
+->,Q111341067->NULL,Mbe Assae Mendomo Theodore,Q953447,RDPC
+->,Q111341068->NULL,Mbede Pierre Petrus,Q953447,RDPC
+->,Q111341069->NULL,Mbeyo'o Josue,Q953447,RDPC
+->,Q111341070->NULL,Mbongyor Naomi Ngando,Q953447,RDPC
+->,Q111341071->NULL,Mbouangouere Rainatou Epse Mongwat,Q3550257,UDC
+->,Q111341072->NULL,Mbuwir Tobias,Q953447,RDPC
+->,Q111341073->NULL,Mekongo Helene épouse Atangana,Q953447,RDPC
+->,Q111341074->NULL,Melingui Roger,Q953447,RDPC
+->,Q111341075->NULL,Memouna Mahamat,Q953447,RDPC
+->,Q111341076->NULL,Mengue Mezui Germain Durand,Q953447,RDPC
+->,Q111341077->NULL,Mohamadou Mahdi,Q953447,RDPC
+->,Q111341079->NULL,Moth Samuel Dieudonne,Q953447,RDPC
+->,Q111341080->NULL,Moumini Oumarou,Q953447,RDPC
+->,Q111341081->NULL,Moussous Lississou,Q953447,RDPC
+->,Q111341082->NULL,Moutymboh Rosette Julienne Epse Ayayi,Q953447,RDPC
+->,Q111341083->NULL,Mpon Francois Xavier,Q953447,RDPC
+->,Q111341084->NULL,N'nolo épouse Onobiono Marie Suzanne,Q953447,RDPC
+->,Q111341085->NULL,Nanga Marthe épouse Menana,Q953447,RDPC
+->,Q111341086->NULL,Nanga Mefant Berthe Epse Owono,Q953447,RDPC
+->,Q111341087->NULL,Ndam,Q3550257,UDC
+->,Q111341088->NULL,Ndjip Bienvenu,Q97177912,PCRN
+->,Q111341089->NULL,Ndongho Clement,Q953447,RDPC
+->,Q111341090->NULL,Ndongo Essomba Jean Bernard,Q953447,RDPC
+->,Q111341091->NULL,Ndongo Eteme Edgard,Q953447,RDPC
+->,Q111341092->NULL,Ndzie Frank Eric,Q953447,RDPC
+->,Q111341093->NULL,Nestus Fru Manju,Q953447,RDPC
+->,Q111341095->NULL,Ngaba Zogo Salome,Q953447,RDPC
+->,Q111341096->NULL,Ngah Estella Shala,Q953447,RDPC
+->,Q111341097->NULL,Ngahane,Q953447,RDPC
+->,Q111341098->NULL,Ngala Gerard Ndombang,Q953447,RDPC
+->,Q111341100->NULL,Ngalle Daniel Etongo,Q953447,RDPC
+->,Q111341101->NULL,Ngantcha Louis Henri,Q953447,RDPC
+->,Q111341102->NULL,Ngbanbaye Antoinette,Q953447,RDPC
+->,Q111341103->NULL,Ngnegue Simon,Q953447,RDPC
+->,Q111341106->NULL,Ngo Issi Rolande Adele,Q97177912,PCRN
+->,Q111341107->NULL,Ngoko Mambe Marie Louise,Q953447,RDPC
+->,Q111341108->NULL,Nguenkam Epse Tchouaga Marie-Louise,Q111340117,UMS
+->,Q111341109->NULL,Nikina Pierre,Q953447,RDPC
+->,Q111341110->NULL,Njingum Musa Mbutoh,Q953447,RDPC
+->,Q111341111->NULL,Njong Evaristus Ndim,Q1470113,SDF
+->,Q111341347->NULL,Njume Peter Ambang,Q953447,RDPC
+->,Q111341348->NULL,Oumoul Koultchoumi épouse Ahidjo Mohamadou,Q6979097,UNDP
+->,Q111341349->NULL,Ousmanou Aman Sa' Aly,Q111340112,FSNC
+->,Q111341350->NULL,Ousmanou Dawaï,Q953447,RDPC
+->,Q111341351->NULL,Pongoh Emmanuel,Q953447,RDPC
+->,Q111341352->NULL,Prince Mikody Ange Gilbert,Q953447,RDPC
+->,Q111341353->NULL,Salamana Amadou Ali Ii,Q111340112,FSNC
+->,Q111341354->NULL,Salomon Douvogo,Q953447,RDPC
+->,Q111341355->NULL,Sambo Galdima,Q953447,RDPC
+->,Q111341356->NULL,Saraou Bernadette,Q953447,RDPC
+->,Q111341357->NULL,Saya Kaigama,Q953447,RDPC
+->,Q111341358->NULL,Sime Pierre,Q953447,RDPC
+->,Q111341359->NULL,Soppo Toute Marlyse,Q953447,RDPC
+->,Q111341360->NULL,Tabouli Celestin,Q953447,RDPC
+->,Q111341361->NULL,Tak Bienvenu,Q953447,RDPC
+->,Q111341362->NULL,Tanefo Jean Marie,Q953447,RDPC
+->,Q111341363->NULL,Tassi Evelyne Chantal Denise Epse Ayissi,Q953447,RDPC
+->,Q111341364->NULL,Tchagna Jaqueline Reve Angeline,Q953447,RDPC
+->,Q111341365->NULL,Tchende Mahama,Q953447,RDPC
+->,Q111341367->NULL,Tekoura Paul Blaise,Q953447,RDPC
+->,Q111341368->NULL,Teku Tanyi Teku,Q953447,RDPC
+->,Q111341369->NULL,Tikobau Pierre Marie,Q953447,RDPC
+->,Q111341370->NULL,Tombi Ikome Gladys,Q953447,RDPC
+->,Q111341371->NULL,Toukam Angele Tela,Q953447,RDPC
+->,Q111341372->NULL,Tsingang Flobert,Q1470113,SDF
+->,Q111341373->NULL,Wa Mathurin Martial,Q953447,RDPC
+->,Q111341374->NULL,Wainachi Nentoh Honourine,Q1470113,SDF
+->,Q111341375->NULL,Wallang Richard,Q953447,RDPC
+->,Q111341376->NULL,Yacouba Yaya,Q953447,RDPC
+->,Q111341377->NULL,Yaouba Alhadji,Q6979097,UNDP
+->,Q111341379->NULL,Yaya Doumba Marius,Q953447,RDPC
+->,Q111341380->NULL,Yebga Judith Sama Epse Mouokuio,Q953447,RDPC
+->,Q111341381->NULL,Youmo Nkoupit Adamou,Q3550257,UDC
+->,Q111341382->NULL,Zam Jean Jacques Noël,Q953447,RDPC
+->,Q111341383->NULL,Zondol Herssesse,Q953447,RDPC
