@@ -27,6 +27,7 @@ class RepList < Scraped::HTML
       'UDC' => 'Q3550257',
       'MDR' => 'Q15195678',
       'MRC' => 'Q20982150',
+      'UPC' => 'Q1860584',
 
     }
     def empty?
@@ -42,7 +43,7 @@ class RepList < Scraped::HTML
     end
 
     field :party do
-      PARTY.fetch(partyLabel, partyLabel)
+      PARTY[partyLabel]
     end
 
     field :partyLabel do

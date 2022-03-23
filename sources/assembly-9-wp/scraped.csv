@@ -30,9 +30,9 @@ item,name,party,partyLabel
 ,Nanga Marthe épouse Menana,Q953447,RDPC
 ,Ahanda Assiga Yves Martin,Q953447,RDPC
 ,Pangmashi Roland Fue,Q953447,RDPC
-,Sende Pierre,UPC,UPC
-,Bapooh Lipot Robert,UPC,UPC
-,Ngo Nyaga épouse Djon Li,UPC,UPC
+,Sende Pierre,Q1860584,UPC
+,Bapooh Lipot Robert,Q1860584,UPC
+,Ngo Nyaga épouse Djon Li,Q1860584,UPC
 Q21866844,Roger Nkodo Dang,Q953447,RDPC
 ,Mballa Ngobo Catherine épouse Mfoula,Q953447,RDPC
 ,Mbarga Assembe Luc Roger,Q953447,RDPC
@@ -172,7 +172,7 @@ Q106576581,Emilia Mojowa Lifaka,Q953447,RDPC
 ,Aleh Eyabi Clarah,Q953447,RDPC
 ,Ateawung Foju Bernard,Q953447,RDPC
 ,Mbanya Bolevie Petnga,Q1470113,SDF
-,Manyu,"",""
+,Manyu,,""
 ,Enow Tanjong,Q953447,RDPC
 ,Igelle Elias Terhemen,Q953447,RDPC
 ,Martin Atinda Mboni,Q953447,RDPC
