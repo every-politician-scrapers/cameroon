@@ -6,7 +6,7 @@ module.exports = function () {
   let fromd = `"${meta.term.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?name ?party ?partyLabel ?constituency ?constituencyLabel
+  return `SELECT DISTINCT ?item ?name ?party ?partyLabel ?region ?regionLabel
                  ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
@@ -69,15 +69,15 @@ module.exports = function () {
       OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
 
       OPTIONAL {
-        ?ps pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShortName }
-        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="${meta.lang}") }
+        ?ps pq:P768 ?region .
+        OPTIONAL { ?region rdfs:label ?regionLabel FILTER (LANG(?regionLabel)="${meta.lang}") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
       OPTIONAL {
-        ?ps pq:P768 ?constituency .
-        OPTIONAL { ?constituency rdfs:label ?constituencyLabel FILTER (LANG(?constituencyLabel)="en") }
+        ?ps pq:P4100 ?party .
+        OPTIONAL { ?party wdt:P1813 ?partyShortName }
+        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyName)="${meta.lang}") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
