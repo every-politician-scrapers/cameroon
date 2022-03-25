@@ -1,181 +1,128 @@
-@@,item,name,party,partylabel,area,arealabel
-+++,"",Abakar Mahamat,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Abba Malla Boukar,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Abdou Kidantang,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Abdoul-Kadri Bello,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Abdoulaye Bougue,Q953447,RDPC,Q502341,NORD
-+++,"",Abunaw Rose Makia Agbor,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Adama Modi,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Adamou Saidou,Q953447,RDPC,Q502341,NORD
-+++,"",Adjibolo Philémon,Q953447,RDPC,Q845168,EST
-+++,"",Ahidjo Mohamadou,Q6979097,UNDP,Q502341,NORD
-+++,"",Akamba Assembe Pierre Georges,Q953447,RDPC,Q739951,CENTRE
-+++,"",Ali Adjit,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Ali Mamouda,Q953447,RDPC,Q502341,NORD
-+++,"",Aliyoum Fadil,Q953447,RDPC,Q502341,NORD
-+++,"",Amadou Adji,Q6979097,UNDP,Q823976,EXTREME NORD
-+++,"",Amadou Mohaman,Q6979097,UNDP,Q502341,NORD
-+++,"",Amassoumou Ndifoane,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Ambassa Zang Dieudonné,Q953447,RDPC,Q739951,CENTRE
-+++,"",Amougo Ekoman Marcel D.,Q953447,RDPC,Q857122,SUD
-+++,"",Amougou Mezang Norbert,Q953447,RDPD,Q857122,SUD
-+++,"",Asu Georges Mbanda,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Ateawung Foju Bernard,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Awudu Mbaya Cyprian,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Ayah Paul Abine,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Badama Paul,Q6979097,UNDP,Q823976,EXTREME NORD
-+++,"",Banadzem Joseph Lukong,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Bangoui Batadjomo Gervais,Q953447,RDPC,Q845168,EST
-+++,"",Banmi Emmanuel Dingha,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Baoro Théophile,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Bassa Botiba Florence Eugénie,Q953447,RDPC,Q739951,CENTRE
-+++,"",Batikbonak Jean-Marie,Q953447,RDPC,Q739951,CENTRE
-+++,"",Bokwe Samuel Ngoe,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Botouli Née Biang Paulette,Q953447,RDPC,Q857122,SUD
-+++,"",Bouba André,Q953447,RDPC,Q502341,NORD
-+++,"",Boulou Nguizi Joseph,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Bouobda,Q953447,RDPC,Q165784,OUEST
-+++,"",Bujung Bede James,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Cavaye Yeguie Djibril,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Danata Paul,Q953447,RDPC,Q845168,EST
-+++,"",Datouo Théodore,Q953447,RDPC,Q165784,OUEST
-+++,"",Djamara Loursantou,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Djibrilla Kaw Bakary,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Djomgue Paul Eric,Q953447,RDPC,Q739951,CENTRE
-+++,"",Dooh Collins Albert Kouoh,Q953447,RDPC,Q845172,Littoral
-+++,"",Dougouf Djonkio Ali,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Edimo Ndoumbe Oscar,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Eken Christophe,Q953447,RDPC,Q165784,OUEST
-+++,"",Ekindi Jean-Jacques,"",MP,Q845172,LITTORAL
-+++,"",Ekoue Bienvenue,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Elias Gondji,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Emah Etoundi Vincent De Paul,Q953447,RDPC,Q739951,CENTRE
-+++,"",Emama Marius,Q953447,RDPC,Q845168,EST
-+++,"",Enwe Francis Abi,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Eone Jean,Q953447,RDPC,Q739951,CENTRE
-+++,"",Epoube Lydienne Née Eyoum M.,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Essame François,Q953447,RDPC,Q857122,SUD
-+++,"",Essola Etoa Louis Roger,Q953447,RDPC,Q845168,EST
-+++,"",Etong Ndzok Hilarion,Q953447,RDPC,Q739951,CENTRE
-+++,"",Eyebe Lucas,Q953447,RDPC,Q739951,CENTRE
-+++,"",Feutheu Jean Claude,Q953447,RDPC,Q165784,OUEST
-+++,"",Fobi Nchinda Simon,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Foinding Calvin,Q953447,RDPC,Q165784,OUEST
-+++,"",Fongang Joseph Confiance,Q953447,RDPC,Q165784,OUEST
-+++,"",Fonso Peter Choo,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Fossi Jacob,Q953447,RDPC,Q165784,OUEST
-+++,"",Fuh Calistus Gentry,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Genesis Mbucksek,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Gonondo Jean,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Halia Moussa Moufta,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Hamadama Djidjioua,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Hamadou Ali Bachir,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Hamadou Sali,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Haman Tchiouto,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Hamatoukour Bobbo,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Harouna Nyako,Q953447,RDPC,Q502341,NORD
-+++,"",Ibrahim Antoine Désiré,Q953447,RDPC,Q845168,EST
-+++,"",Ibrahim Dewa,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Itoe William Ebeku,Q953447,RDPC,Q607499,SUD OUEST
-->,Q38459914,Joshua Osih->Yaya Doumba Marius,NULL->Q953447,NULL->RDPC,,
-+++,"",Kalbassou Daniel,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Kamssouloum Abba Kabir,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Kanga Jean-Jacques,Q953447,RDPC,Q165784,OUEST
-+++,"",Kegne M. Joséphine Ép. Fotso,Q953447,RDPC,Q165784,OUEST
-+++,"",Kerbai Laoukoura Jean Marie,Q953447,RDPC,Q502341,NORD
-+++,"",Ketcha Jean,Q953447,RDPC,Q165784,OUEST
-+++,"",Ketchanga Célestin,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Koa Luc,Q953447,RDPC,Q739951,CENTRE
-+++,"",Koah Songo Gabriel,Q953447,RDPC,Q739951,CENTRE
-+++,"",Komba Gaston,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Kombo Gberi,Q953447,RDPC,Q845168,EST
-+++,"",Koupenju Simon,Q3550257,UDC,Q165784,OUEST
-+++,"",Kwei Andrew Mngo,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Lekene Donfack,Q953447,RDPC,Q165784,OUEST
-+++,"",Libock Jean Calvin,Q953447,RDPC,Q739951,CENTRE
-+++,"",Lyonga Rachel C. Née Epoupa,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Makembe Bebey Emmanuel,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Mamigue Jean,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Manfouo David,Q953447,RDPC,Q165784,OUEST
-+++,"",Matsang Seyi Mama,Q953447,RDPC,Q739951,CENTRE
-+++,"",Matta Joseph Roland,Q953447,RDPC,Q845168,EST
-+++,"",Mbah Ndam Joseph Njang,Q1470113,SDF,Q823946,NOR OUEST
-+++,"",Mballa Ambassa Laurent G.,Q953447,RDPC,Q739951,CENTRE
-+++,"",Mbapte Jean-Baptiste,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Mbe Assae Mendomo Théodore A.,Q953447,RDPC,Q857122,SUD
-+++,"",Mbiam Emmanuel,Q953447,RDPC,Q857122,SUD
-+++,"",Mboui Joseph,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Mboya Mbangue Jacob,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Mebande B. Ép. Abdoulbagui,Q953447,RDPC,Q845168,EST
-+++,"",Melaga Odette,Q953447,RDPC,Q165784,OUEST
-+++,"",Mendoua Née Atangana A.C.C,Q953447,RDPC,Q857122,SUD
-+++,"",Mgbatou Pierre,Q953447,RDPC,Q739951,CENTRE
-+++,"",Moakeya Odile Solange,Q953447,RDPC,Q845168,EST
-+++,"",Mohamadou Gassimou,Q953447,RDPC,Q502341,NORD
-+++,"",Monjowa Lifaka Emilia,Q953447,RDPC,Q165784,OUEST
-+++,"",Moutymbou Rosette J. P Ayayi,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Mpacko Kotto Jean-Claude,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Mubun Ntam James,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Munchipou Yacouba,Q3550257,UDC,Q165784,OUEST
-+++,"",Muyali Boya Mary Ép. Meboka,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Mvindi Obama Gaston,Q953447,RDPC,Q739951,CENTRE
-+++,"",Mvondo Assam Bonaventure,Q953447,RDPC,Q857122,SUD
-+++,"",N'Nolo Marie S. Ép. Onobiono,Q953447,RDPC,Q739951,CENTRE
-+++,"",Naseli Emmanuel Sako,Q953447,RDPC,Q165784,OUEST
-+++,"",Ndi François,Q953447,RDPC,Q857122,SUD
-+++,"",Ndongo Essomba Jean-Bernard,Q953447,RDPC,Q739951,CENTRE
-+++,"",Ndono Mbanga,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Ndoumou Pauline,Q953447,RDPC,Q857122,SUD
-+++,"",Ngah Koumba Jean-Marie,Q953447,RDPC,Q739951,CENTREL
-+++,"",Ngala Esther Ntala,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Ngale Adolf Namme,Q953447,RDPC,Q607499,SUD  OUEST
-+++,"",Ngono Guy Parfait,Q953447,RDPC,Q739951,CENTRE
-+++,"",Ngoran Lawrence Tondze,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Nguini Effa Marie-Rose,Q953447,RDPC,Q739951,CENTRE
-+++,"",Nikina Pierre,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Nintcheu Jean-Michel,Q1470113,SDF,Q845172,LITTORAL
-+++,"",Nji Fidelis Muh Ziah,Q953447,RDPPC,Q823946,NORD OUEST
-+++,"",Njingum Musa Mbutoh,Q953447,RDPPC,Q823946,NORD OUEST
-+++,"",Njocke Abel Calvin,Q953447,RDPPC,Q845172,LITTORAL
-+++,"",Njong Evaristus Ndim,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Nkele Palmy William Mboe,Q1470113,SDF,Q607499,SUD OUEST
-+++,"",Nkembeng Edward,Q1470113,SDF,Q845172,LITTORAL
-+++,"",Nkodo Dang Roger,Q953447,RDPC,Q739951,CENTRE
-+++,"",Nkolo Menye Hubert,Q953447,RDPC,Q739951,CENTRE
-+++,"",Nlend Albert,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Nnomo Bengono Joseph C.,Q953447,RDPC,Q739951,CENTRE
-+++,"",Noumba Serges Siméon,Q1470113,SDF,Q165784,OUEST
-+++,"",Nsa Moussa,Q953447,RDPC,Q165784,OUEST
-+++,"",Nyindi Henriette F. Ép. Elouna,Q953447,RDPC,Q739951,CENTRE
-+++,"",Nzuobontane Andrew Ngabe,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Obenofunde Moses Besong,Q953447,RDPC,Q607499,SUD OUEST
-+++,"",Ondigui Thaddeus,Q953447,RDPC,Q739951,CENTRE
-+++,"",Owona Kono Joseph Hyacinthe,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Oyono Martin,Q953447,RDPC,Q857122,SUD
-+++,"",Paul Nji Tumasang,Q1470113,SDF,Q823946,NORD OUEST
-+++,"",Peyipahouo Riratou,Q3550257,UDC,Q165784,OUEST
-+++,"",Ramadan Fils De Chetima Oumar,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Sadjo Daouda,Q953447,RDPC,Q502341,NORD
-+++,"",Sadjo Koumai,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Sali Dairou,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Salomon Fils De Douvogo,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Sani Mohamadou,Q953447,RDPC,Q351514,ADAMAOUA
-+++,"",Sassouan Hiri Hiri,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Silikam Née Manamourou I.M.,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Sime Pierre,Q953447,RDPC,Q845172,LITTORAL
-+++,"",Sonke Benjamin,Q953447,RDPC,Q165784,OUEST
-+++,"",Sop Jean Georges,Q953447,RDPC,Q739951,CENTRE
-+++,"",Tala Tala Blondeau,Q953447,RDPC,Q845168,EST
-+++,"",Tchoffo Lucas,Q953447,RDPC,Q165784,OUEST
-+++,"",Temwa,Q953447,RDPC,Q823976,EXTREME NORD
-+++,"",Tomaino Ndam N. Hermine P.,Q3550257,UDC,Q165784,OUEST
-+++,"",Tsoungui Bleue R.Ép. Obama,Q953447,RDPC,Q739951,CENTRE
-+++,"",Wa Mathurin Martial,Q953447,RDPC,Q165784,OUEST
-+++,"",Wallang Richard Ebua,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Wirngo Buba Kibo,Q953447,RDPC,Q823946,NORD OUEST
-+++,"",Yagai Basile,Q6979097,UNDP,Q823976,EXTREME NORD
-+++,"",Youssouf A. Hadjidja Alim,Q953447,RDPC,Q502341,NORD
-+++,"",Youwo Bernard,Q953447,RDPC,Q165784,OUEST
-+++,"",Zam Jean-Jacques Noel,Q953447,RDPC,Q857122,SUD
-+++,"",Zeussiye Alice,Q953447,RDPC,Q165784,OUEST
-+++,"",Zondol Herssesse,Q953447,RDPC,Q823976,EXTREME NORD
+@@,item,name,party,area
++++,"",Abakar Mahamat,Q953447,Q823976
++++,"",Abba Malla Boukar,Q953447,Q823976
++++,"",Abdou Kidantang,Q953447,Q823976
++++,"",Abdoul-Kadri Bello,Q953447,Q351514
++++,"",Abdoulaye Bougue,Q953447,Q502341
++++,"",Abunaw Rose Makia Agbor,Q953447,Q607499
++++,"",Adama Modi,Q953447,Q823976
++++,"",Adamou Saidou,Q953447,Q502341
++++,"",Adjibolo Philémon,Q953447,Q845168
++++,"",Ahidjo Mohamadou,Q6979097,Q502341
++++,"",Akamba Assembe Pierre Georges,Q953447,Q739951
++++,"",Amassoumou Ndifoane,Q953447,Q351514
++++,"",Ambassa Zang Dieudonné,Q953447,Q739951
++++,"",Amougo Ekoman Marcel D.,Q953447,Q857122
++++,"",Amougou Mezang Norbert,Q953447,Q857122
++++,"",Asu Georges Mbanda,Q953447,Q607499
++++,"",Ayah Paul Abine,Q953447,Q607499
++++,"",Badama Paul,Q6979097,Q823976
++++,"",Bangoui Batadjomo Gervais,Q953447,Q845168
++++,"",Bassa Botiba Florence Eugénie,Q953447,Q739951
++++,"",Batikbonak Jean-Marie,Q953447,Q739951
++++,"",Bokwe Samuel Ngoe,Q953447,Q607499
++++,"",Botouli Née Biang Paulette,Q953447,Q857122
++++,"",Bouba André,Q953447,Q502341
++++,"",Bouobda,Q953447,Q165784
++++,"",Bujung Bede James,Q1470113,Q823946
++++,"",Datouo Théodore,Q953447,Q165784
++++,"",Djamara Loursantou,Q953447,Q823976
++++,"",Djibrilla Kaw Bakary,Q953447,Q823976
++++,"",Djomgue Paul Eric,Q953447,Q739951
++++,"",Eken Christophe,Q953447,Q165784
++++,"",Ekindi Jean-Jacques,"",Q845172
++++,"",Ekoue Bienvenue,Q953447,Q845172
++++,"",Elias Gondji,Q953447,Q823976
++++,"",Emama Marius,Q953447,Q845168
++++,"",Eone Jean,Q953447,Q739951
++++,"",Epoube Lydienne Née Eyoum M.,Q953447,Q845172
++++,"",Essame François,Q953447,Q857122
++++,"",Essola Etoa Louis Roger,Q953447,Q845168
++++,"",Etong Ndzok Hilarion,Q953447,Q739951
++++,"",Eyebe Lucas,Q953447,Q739951
++++,"",Foinding Calvin,Q953447,Q165784
++++,"",Fongang Joseph Confiance,Q953447,Q165784
++++,"",Fonso Peter Choo,Q1470113,Q823946
++++,"",Fuh Calistus Gentry,Q953447,Q823946
++++,"",Hamadama Djidjioua,Q953447,Q351514
++++,"",Hamadou Ali Bachir,Q953447,Q351514
++++,"",Hamatoukour Bobbo,Q953447,Q351514
++++,"",Ibrahim Antoine Désiré,Q953447,Q845168
++++,"",Ibrahim Dewa,Q953447,Q351514
++++,"",Itoe William Ebeku,Q953447,Q607499
+---,Q38459914,Joshua Osih,,
++++,"",Kalbassou Daniel,Q953447,Q823976
++++,"",Kanga Jean-Jacques,Q953447,Q165784
++++,"",Kegne M. Joséphine Ép. Fotso,Q953447,Q165784
++++,"",Kerbai Laoukoura Jean Marie,Q953447,Q502341
++++,"",Ketcha Jean,Q953447,Q165784
++++,"",Ketchanga Célestin,Q953447,Q845172
++++,"",Koah Songo Gabriel,Q953447,Q739951
++++,"",Koupenju Simon,Q3550257,Q165784
++++,"",Lekene Donfack,Q953447,Q165784
++++,"",Libock Jean Calvin,Q953447,Q739951
++++,"",Lyonga Rachel C. Née Epoupa,Q953447,Q607499
++++,"",Makembe Bebey Emmanuel,Q953447,Q845172
++++,"",Mamigue Jean,Q953447,Q823976
++++,"",Matta Joseph Roland,Q953447,Q845168
++++,"",Mballa Ambassa Laurent G.,Q953447,Q739951
++++,"",Mbe Assae Mendomo Théodore A.,Q953447,Q857122
++++,"",Mboui Joseph,Q953447,Q845172
++++,"",Mboya Mbangue Jacob,Q953447,Q607499
++++,"",Mebande B. Ép. Abdoulbagui,Q953447,Q845168
++++,"",Melaga Odette,Q953447,Q165784
++++,"",Mendoua Née Atangana A.C.C,Q953447,Q857122
++++,"",Mgbatou Pierre,Q953447,Q739951
++++,"",Moakeya Odile Solange,Q953447,Q845168
++++,"",Mohamadou Gassimou,Q953447,Q502341
++++,"",Monjowa Lifaka Emilia,Q953447,Q165784
++++,"",Moutymbou Rosette J. P Ayayi,Q953447,Q845172
++++,"",Mubun Ntam James,Q1470113,Q823946
++++,"",Munchipou Yacouba,Q3550257,Q165784
++++,"",Muyali Boya Mary Ép. Meboka,Q953447,Q607499
++++,"",Mvindi Obama Gaston,Q953447,Q739951
++++,"",N'Nolo Marie S. Ép. Onobiono,Q953447,Q739951
++++,"",Naseli Emmanuel Sako,Q953447,Q165784
++++,"",Ndi François,Q953447,Q857122
++++,"",Ndono Mbanga,Q953447,Q845172
++++,"",Ndoumou Pauline,Q953447,Q857122
++++,"",Ngah Koumba Jean-Marie,Q953447,Q739951
++++,"",Ngale Adolf Namme,Q953447,Q607499
++++,"",Ngono Guy Parfait,Q953447,Q739951
++++,"",Ngoran Lawrence Tondze,Q1470113,Q823946
++++,"",Nguini Effa Marie-Rose,Q953447,Q739951
++++,"",Nintcheu Jean-Michel,Q1470113,Q845172
++++,"",Nji Fidelis Muh Ziah,Q953447,Q823946
++++,"",Njocke Abel Calvin,Q953447,Q845172
++++,"",Nkele Palmy William Mboe,Q1470113,Q607499
++++,"",Nkembeng Edward,Q1470113,Q845172
++++,"",Nkodo Dang Roger,Q953447,Q739951
++++,"",Nkolo Menye Hubert,Q953447,Q739951
++++,"",Nlend Albert,Q953447,Q845172
++++,"",Nnomo Bengono Joseph C.,Q953447,Q739951
++++,"",Noumba Serges Siméon,Q1470113,Q165784
++++,"",Nyindi Henriette F. Ép. Elouna,Q953447,Q739951
++++,"",Nzuobontane Andrew Ngabe,Q953447,Q607499
++++,"",Obenofunde Moses Besong,Q953447,Q607499
++++,"",Ondigui Thaddeus,Q953447,Q739951
++++,"",Paul Nji Tumasang,Q1470113,Q823946
++++,"",Peyipahouo Riratou,Q3550257,Q165784
++++,"",Ramadan Fils De Chetima Oumar,Q953447,Q823976
++++,"",Sadjo Daouda,Q953447,Q502341
++++,"",Sadjo Koumai,Q953447,Q823976
++++,"",Salomon Fils De Douvogo,Q953447,Q823976
++++,"",Sani Mohamadou,Q953447,Q351514
++++,"",Sassouan Hiri Hiri,Q953447,Q823976
++++,"",Silikam Née Manamourou I.M.,Q953447,Q823976
++++,"",Sonke Benjamin,Q953447,Q165784
++++,"",Sop Jean Georges,Q953447,Q739951
++++,"",Tala Tala Blondeau,Q953447,Q845168
++++,"",Tchoffo Lucas,Q953447,Q165784
++++,"",Temwa,Q953447,Q823976
++++,"",Tomaino Ndam N. Hermine P.,Q3550257,Q165784
++++,"",Tsoungui Bleue R.Ép. Obama,Q953447,Q739951
++++,"",Wirngo Buba Kibo,Q953447,Q823946
++++,"",Yagai Basile,Q6979097,Q823976
++++,"",Yaya Doumba Marius,Q953447,""
++++,"",Youssouf A. Hadjidja Alim,Q953447,Q502341
++++,"",Zeussiye Alice,Q953447,Q165784

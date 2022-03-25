@@ -11,6 +11,10 @@ class String
 end
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
+  def columns
+    super - %i(arealabel partylabel)
+  end
+
   def wikidata_csv_options
     { converters: [->(val, field) { field.header == :name ? val.to_s.titlecase : val }] }
   end
