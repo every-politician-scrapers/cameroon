@@ -2,7 +2,7 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (label,party,area) => {
+module.exports = (label,area,party) => {
   mem = {
     value: meta.position,
     qualifiers: {
