@@ -10,4 +10,4 @@ class Comparison < EveryPoliticianScraper::NulllessComparison
 end
 
 diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
-puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
+puts diff.sort_by { |r| [r[0].to_s.gsub(/\-.*/, '+++').gsub('@@','!!'), r[2].to_s.downcase] }.map(&:to_csv)
