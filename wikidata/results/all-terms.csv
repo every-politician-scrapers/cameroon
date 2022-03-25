@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-6,Q111338363,6th Parliament of Cameroon,1997-01-01,2002-01-01,1997-01-01,9,,,2002-01-01,9,,,,,Q111338364,7th Parliament of Cameroon,,,,
-7,Q111338364,7th Parliament of Cameroon,2002-01-01,2007-01-01,2002-01-01,9,,,2007-01-01,9,,,Q111338363,6th Parliament of Cameroon,Q111338362,8th Parliament of Cameroon,,,,
-8,Q111338362,8th Parliament of Cameroon,2007-01-01,2013-07-22,2007-01-01,9,,,2013-07-22,11,,,Q111338364,7th Parliament of Cameroon,Q111338361,9th Parliament of Cameroon,,,,
+6,Q111338363,6th Parliament of Cameroon,1997-05-18,2002-06-29,1997-05-18,11,,,2002-06-29,11,,,,,Q111338364,7th Parliament of Cameroon,,,,
+7,Q111338364,7th Parliament of Cameroon,2002-07-01,2007-07-21,2002-07-01,11,,,2007-07-21,11,,,Q111338363,6th Parliament of Cameroon,Q111338362,8th Parliament of Cameroon,,,,
+8,Q111338362,8th Parliament of Cameroon,2007-07-22,2013-07-22,2007-07-22,11,,,2013-07-22,11,,,Q111338364,7th Parliament of Cameroon,Q111338361,9th Parliament of Cameroon,,,,
 9,Q111338361,9th Parliament of Cameroon,2013-10-29,2019-12-29,2013-10-29,11,,,2019-12-29,11,,,Q111338362,8th Parliament of Cameroon,Q111338353,10th Parliament of Cameroon,,,,
 10,Q111338353,10th Parliament of Cameroon,2020-03-10,,2020-03-10,11,,,,,,,Q111338361,9th Parliament of Cameroon,,,,,,
