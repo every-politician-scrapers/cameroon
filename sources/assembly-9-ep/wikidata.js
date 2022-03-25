@@ -62,7 +62,14 @@ module.exports = function () {
         ) AS ?endDate
       )
       OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
-      OPTIONAL { ?ps pq:P4100 ?party }
+
+      OPTIONAL {
+        ?ps pq:P4100 ?party .
+        OPTIONAL { ?party wdt:P1813 ?partyShortName FILTER (LANG(?partyShortName)="fr")}
+        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="${meta.lang}") }
+      }
+      BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
+
       OPTIONAL { ?ps pq:P768  ?area  }
 
       OPTIONAL {

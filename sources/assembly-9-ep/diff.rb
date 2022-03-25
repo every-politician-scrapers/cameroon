@@ -3,9 +3,20 @@
 
 require 'every_politician_scraper/comparison'
 
+# from https://stackoverflow.com/questions/1791639/converting-upper-case-string-into-title-case-using-ruby
+class String
+  def titlecase
+    split(/([[:alpha:]]+)/).map(&:capitalize).join
+  end
+end
+
 class Comparison < EveryPoliticianScraper::NulllessComparison
+  def wikidata_csv_options
+    { converters: [->(val, field) { field.header == :name ? val.to_s.titlecase : val }] }
+  end
+
   def external_csv_options
-    { converters: [->(val) { val == 'Q3366357' ? 'Q953447' : val }] }
+    { converters: [->(val, field) { field.header == :name ? val.to_s.titlecase : val.to_s.gsub('Q3366357', 'Q953447') }] }
   end
 end
 
