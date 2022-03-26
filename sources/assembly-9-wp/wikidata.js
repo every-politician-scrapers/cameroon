@@ -70,7 +70,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShortName }
+        OPTIONAL { ?party wdt:P1813 ?partyShortName FILTER(LANG(?partyShortName)="fr") }
         OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="${meta.lang}") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
@@ -86,7 +86,7 @@ module.exports = function () {
         ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.lang}.wikipedia.org') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
       }
-      OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
+      OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "en") }
       BIND(COALESCE(?sourceName, ?labelName) AS ?name)
     }
     # ${new Date().toISOString()}
