@@ -1,11 +1,13 @@
 @@,item,name,party,area
 ->,Q111342346,Amadou Adji,Q953447->Q6979097,Q823976
 +++,"",Aminatou,"",""
+---,Q105971259,Bonaventure Mvondo Assam,Q953447,Q857122
 ->,Q110511220,Datouo Théodore,Q953447->Q1470113,Q165784
 ---,Q111363687,Enow Etoundi,Q953447,
 ->,Q111342522,Genesis Mbucksek,Q1470113->Q953447,Q823946
 ->,Q111341049,Kwei Andrew Mngo,Q1470113->Q953447,Q823946
 ->,Q111342546,Mbanya Bolevie Petnga,Q1470113->Q953447,Q823946
++++,"",Mvondo Assam Bonaventure,Q953447,Q857122
 ---,Q111342560,Ngandji Hounkoueng Oumarou,Q953447,
 ---,Q111363688,Nsosie Ebah Susana Épse Okpu,Q953447,
 ---,Q111342567,Ntsama Belinga Jeanne Épouse Ottou,Q953447,
