@@ -20,7 +20,7 @@ module.exports = (label, ministry) => {
       en: label,
     },
     descriptions: {
-      en: `cabinet position in ${meta.jurisdiction.name}`,
+      en: `government position in ${meta.jurisdiction.name}`,
     },
     claims: claims
   }
