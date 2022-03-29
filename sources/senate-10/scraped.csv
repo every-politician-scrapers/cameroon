@@ -1,100 +1,100 @@
-name,region,regionLabel
-Nana Ismaila,Q351514,Adamaoua
-Hamadou Paul,Q351514,Adamaoua
-Rougayatou Asta Djoulde,Q351514,Adamaoua
-Oumarou Issa,Q351514,Adamaoua
-Djallo Epouse Kalkaba Souadatou,Q351514,Adamaoua
-Baroua Nyakeu,Q351514,Adamaoua
-Mamoudou Mazadou,Q351514,Adamaoua
-Mohaman Gabdo,Q351514,Adamaoua
-Moussa Sabo,Q351514,Adamaoua
-Djaratou Mohamadou,Q351514,Adamaoua
-Naah Ondoa Sylvestre,Q739951,Centre
-Essomba Tsoungui Elie Victor,Q739951,Centre
-Anong Adibime Pascal,Q739951,Centre
-Bell Luc René,Q739951,Centre
-Okala Bilai Epouse Ahandjena Nicole,Q739951,Centre
-Sm Mama Jean Marie,Q739951,Centre
-Koungou Edima Eliane Didier,Q739951,Centre
-Nkodo Laurent,Q739951,Centre
-Pongmoni Jean Marie,Q739951,Centre
-Mbida Mvodo Albert,Q739951,Centre
-Sale Charles,Q845168,Est
-Assouho Epse Tokpanou Djole,Q845168,Est
-Ouli Ndongo Monique,Q845168,Est
-Ndanga Ndinga Badel,Q845168,Est
-Amama Amama Benjamin,Q845168,Est
-Moampea Mbio Née Ngbangako Marie Claire,Q845168,Est
-Mboundjo Jean,Q845168,Est
-Ze Nguele René,Q845168,Est
-Diwala Mony Hilarion,Q845168,Est
-Aboui Marlyse,Q845168,Est
-Mahamat Abdoul Karim,Q823976,Extrême-Nord
-Wouyack Marava Abdoulaye,Q823976,Extrême-Nord
-Zakiatou Epse Sale,Q823976,Extrême-Nord
-Amrakaye Martin,Q823976,Extrême-Nord
-Foutchou Epse Djakaou,Q823976,Extrême-Nord
-Alioum Alhadji,Q823976,Extrême-Nord
-Bladi Abba,Q823976,Extrême-Nord
-Mahamat Bahar Manouf,Q823976,Extrême-Nord
-Dakole Daïssala,Q823976,Extrême-Nord
-Ngabaya Tchef Tchef,Q823976,Extrême-Nord
-Hanglog Epse Tjoues Géneviève,Q845172,Littoral
-Tobbo Eyoum Thomas,Q845172,Littoral
-Din Bell Marie Armande,Q845172,Littoral
-Kingue Simon,Q845172,Littoral
-Minyem Endene Epouse Eboumbou Patience Félicité,Q845172,Littoral
-Kemayou Claude,Q845172,Littoral
-Bile Jean David,Q845172,Littoral
-Madiba Songue,Q845172,Littoral
-Etame Massoma David Sigfried,Q845172,Littoral
-Ngayap Pierre Flambeau,Q845172,Littoral
-Amidou Maurice,Q502341,Nord
-Namio Pierre,Q502341,Nord
-Amadou Alim,Q502341,Nord
-Asta Yvonne,Q502341,Nord
-Bebnone Payounni,Q502341,Nord
-Doudou Epouse Adamou Djoubaïrou,Q502341,Nord
-Hama Djabou,Q502341,Nord
-Aboubakary Abdoulaye,Q502341,Nord
-Hayatou Aïcha Pierrette,Q502341,Nord
-Boubakari Ousmanou,Q502341,Nord
-Vanigansen Mochiggle,Q823946,Nord-Ouest
-Gamsey Kemende Henry,Q823946,Nord-Ouest
-Buh Sule Tegha,Q823946,Nord-Ouest
-Ajuoh Ngam Honoré,Q823946,Nord-Ouest
-Kinyang Nyang Georges,Q823946,Nord-Ouest
-Kumbongsi Dyx Meten Alim,Q823946,Nord-Ouest
-Doh Ganyonga Iii,Q823946,Nord-Ouest
-Chafah Isaac,Q823946,Nord-Ouest
-Régina Mundi Elizabeth,Q823946,Nord-Ouest
-Ngouchinghe Sylvestre,Q165784,Ouest
-Ngoubeyou François Xavier,Q165784,Ouest
-Fomethe Anaclet,Q165784,Ouest
-Ngangoube Aminatou,Q165784,Ouest
-Pokam Max,Q165784,Ouest
-Dsamou Micheline,Q165784,Ouest
-Teingnidetio Jean,Q165784,Ouest
-Ibrahim Mbombo Njoya,Q165784,Ouest
-Djomo Kamga Honoré,Q165784,Ouest
-Niat Njifenji Marcel,Q165784,Ouest
-Mbita Mvaebeme Lippert,Q857122,Sud
-Zang Oyono Calvin,Q857122,Sud
-Obam Assam Samuel,Q857122,Sud
-Mba Mba Grégoire,Q857122,Sud
-Eloumba Therese,Q857122,Sud
-Amougou Bernard,Q857122,Sud
-Afane Gisele Solange,Q857122,Sud
-Ngalli Ngoua Pierre Henri,Q857122,Sud
-Menye Ondo François Xavier,Q857122,Sud
-Bisseck Paulette,Q857122,Sud
-Tabe Tando Ndieb Nso,Q607499,Sud-Ouest
-Otte Andrew Mofa,Q607499,Sud-Ouest
-Mbella Moki Charles,Q607499,Sud-Ouest
-Ntube Ndode Epouse Ndjock Agnès,Q607499,Sud-Ouest
-Ankie Affiong Amah Rébecca,Q607499,Sud-Ouest
-Lekunze Membo Andreas,Q607499,Sud-Ouest
-Papianatu Fonderson Lionel,Q607499,Sud-Ouest
-Mukete Essimi Ngo Victor,Q607499,Sud-Ouest
-Anja Simon Onjwo,Q607499,Sud-Ouest
-Leke Besongoh Akemfor Philip,Q607499,Sud-Ouest
+item,name,region,regionLabel
+,Baroua Nyakeu,Q351514,Adamaoua
+,Djallo Epouse Kalkaba Souadatou,Q351514,Adamaoua
+,Djaratou Mohamadou,Q351514,Adamaoua
+,Hamadou Paul,Q351514,Adamaoua
+,Mamoudou Mazadou,Q351514,Adamaoua
+Q111355880,Mohaman Gabdo,Q351514,Adamaoua
+Q111355881,Moussa Sabo,Q351514,Adamaoua
+,Nana Ismaila,Q351514,Adamaoua
+,Oumarou Issa,Q351514,Adamaoua
+,Rougayatou Asta Djoulde,Q351514,Adamaoua
+Q111355883,Anong Adibime Pascal,Q739951,Centre
+Q24951660,Bell Luc René,Q739951,Centre
+Q5399952,Essomba Tsoungui Elie Victor,Q739951,Centre
+,Koungou Edima Eliane Didier,Q739951,Centre
+,Mbida Mvodo Albert,Q739951,Centre
+Q111355905,Naah Ondoa Sylvestre,Q739951,Centre
+Q111355871,Nkodo Laurent,Q739951,Centre
+Q41672851,Okala Bilai Epouse Ahandjena Nicole,Q739951,Centre
+Q111355866,Pongmoni Jean Marie,Q739951,Centre
+Q111355865,Sm Mama Jean Marie,Q739951,Centre
+Q43460532,Aboui Marlyse,Q845168,Est
+Q111355841,Amama Amama Benjamin,Q845168,Est
+,Assouho Epse Tokpanou Djole,Q845168,Est
+,Diwala Mony Hilarion,Q845168,Est
+Q111355862,Mboundjo Jean,Q845168,Est
+Q111355876,Moampea Mbio Née Ngbangako Marie Claire,Q845168,Est
+Q111366145,Ndanga Ndinga Badel,Q845168,Est
+Q43457076,Ouli Ndongo Monique,Q845168,Est
+Q111365027,Sale Charles,Q845168,Est
+Q111355898,Ze Nguele René,Q845168,Est
+Q111364926,Alioum Alhadji,Q823976,Extrême-Nord
+Q111364930,Amrakaye Martin,Q823976,Extrême-Nord
+,Bladi Abba,Q823976,Extrême-Nord
+Q5209975,Dakole Daïssala,Q823976,Extrême-Nord
+,Foutchou Epse Djakaou,Q823976,Extrême-Nord
+,Mahamat Abdoul Karim,Q823976,Extrême-Nord
+Q111355873,Mahamat Bahar Manouf,Q823976,Extrême-Nord
+,Ngabaya Tchef Tchef,Q823976,Extrême-Nord
+Q111355874,Wouyack Marava Abdoulaye,Q823976,Extrême-Nord
+,Zakiatou Epse Sale,Q823976,Extrême-Nord
+,Bile Jean David,Q845172,Littoral
+Q111355875,Din Bell Marie Armande,Q845172,Littoral
+Q111355849,Etame Massoma David Sigfried,Q845172,Littoral
+Q39145253,Hanglog Epse Tjoues Géneviève,Q845172,Littoral
+,Kemayou Claude,Q845172,Littoral
+Q111355900,Kingue Simon,Q845172,Littoral
+Q111355903,Madiba Songue,Q845172,Littoral
+,Minyem Endene Epouse Eboumbou Patience Félicité,Q845172,Littoral
+Q111355892,Ngayap Pierre Flambeau,Q845172,Littoral
+Q111355907,Tobbo Eyoum Thomas,Q845172,Littoral
+Q95725544,Aboubakary Abdoulaye,Q502341,Nord
+Q2840847,Amadou Alim,Q502341,Nord
+Q111355878,Amidou Maurice,Q502341,Nord
+Q111355912,Asta Yvonne,Q502341,Nord
+Q111355888,Bebnone Payounni,Q502341,Nord
+,Boubakari Ousmanou,Q502341,Nord
+,Doudou Epouse Adamou Djoubaïrou,Q502341,Nord
+,Hama Djabou,Q502341,Nord
+Q111355893,Hayatou Aïcha Pierrette,Q502341,Nord
+Q111355891,Namio Pierre,Q502341,Nord
+,Ajuoh Ngam Honoré,Q823946,Nord-Ouest
+,Buh Sule Tegha,Q823946,Nord-Ouest
+,Chafah Isaac,Q823946,Nord-Ouest
+,Doh Ganyonga Iii,Q823946,Nord-Ouest
+,Gamsey Kemende Henry,Q823946,Nord-Ouest
+,Kinyang Nyang Georges,Q823946,Nord-Ouest
+,Kumbongsi Dyx Meten Alim,Q823946,Nord-Ouest
+,Régina Mundi Elizabeth,Q823946,Nord-Ouest
+,Vanigansen Mochiggle,Q823946,Nord-Ouest
+,Djomo Kamga Honoré,Q165784,Ouest
+,Dsamou Micheline,Q165784,Ouest
+,Fomethe Anaclet,Q165784,Ouest
+Q15819842,Ibrahim Mbombo Njoya,Q165784,Ouest
+,Ngangoube Aminatou,Q165784,Ouest
+,Ngoubeyou François Xavier,Q165784,Ouest
+,Ngouchinghe Sylvestre,Q165784,Ouest
+,Niat Njifenji Marcel,Q165784,Ouest
+,Pokam Max,Q165784,Ouest
+,Teingnidetio Jean,Q165784,Ouest
+,Afane Gisele Solange,Q857122,Sud
+,Amougou Bernard,Q857122,Sud
+Q111355887,Bisseck Paulette,Q857122,Sud
+Q43459010,Eloumba Therese,Q857122,Sud
+Q111355859,Mba Mba Grégoire,Q857122,Sud
+Q111355879,Mbita Mvaebeme Lippert,Q857122,Sud
+Q111355856,Menye Ondo François Xavier,Q857122,Sud
+Q111355889,Ngalli Ngoua Pierre Henri,Q857122,Sud
+Q111355899,Obam Assam Samuel,Q857122,Sud
+Q111355844,Zang Oyono Calvin,Q857122,Sud
+Q111355901,Anja Simon Onjwo,Q607499,Sud-Ouest
+Q111355897,Ankie Affiong Amah Rébecca,Q607499,Sud-Ouest
+,Leke Besongoh Akemfor Philip,Q607499,Sud-Ouest
+,Lekunze Membo Andreas,Q607499,Sud-Ouest
+Q111355845,Mbella Moki Charles,Q607499,Sud-Ouest
+Q27755043,Mukete Essimi Ngo Victor,Q607499,Sud-Ouest
+Q111355836,Ntube Ndode Epouse Ndjock Agnès,Q607499,Sud-Ouest
+Q111355838,Otte Andrew Mofa,Q607499,Sud-Ouest
+,Papianatu Fonderson Lionel,Q607499,Sud-Ouest
+Q111355906,Tabe Tando Ndieb Nso,Q607499,Sud-Ouest
