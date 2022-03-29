@@ -10,7 +10,7 @@ module.exports = (label,region,party) => {
       P768: region,
     },
     references: {
-      P4656: meta.source,
+      P854: meta.source,
       P813: new Date().toISOString().split('T')[0],
       P1810: label,
     }
