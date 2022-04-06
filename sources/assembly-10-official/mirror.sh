@@ -17,4 +17,4 @@ curl $CURLOPTS -o mirror/page11.html "https://www.assnat.cm/index.php/fr/deputes
 curl $CURLOPTS -o mirror/page12.html "https://www.assnat.cm/index.php/fr/deputes/10eme-legislature?start=165"
 curl $CURLOPTS -o mirror/page13.html "https://www.assnat.cm/index.php/fr/deputes/10eme-legislature?start=180"
 
-cd -
+cd ~-
