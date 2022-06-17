@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Benoît Bindzi,Q108292434,1966,1968
----,Raymond N'Thepe,Q108292435,1970,1971
----,Paul Dontsop,Q108292436,1980,1983
----,Philippe Mataga,Q108292437,1987,1988
-+++,Jacques Roger Booh Booh,,1988,1992
-->,Xavier Ngoubeyou->François-Xavier Ngoubeyou,Q98815574,2001-04-27,2004-12-07
+@@,item,itemlabel,startdate,enddate
++++,,Jacques Roger Booh Booh,1988,1992
++++,Q1000379,Ferdinand Oyono,1992-11-27,1997-12-07
+->,Q98815574,Xavier Ngoubeyou->François-Xavier Ngoubeyou,2001-04-27,2004-12-07

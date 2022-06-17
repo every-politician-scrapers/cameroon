@@ -1,11 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-+++,Rodolph Tokoto Essome,,1956,1967
-+++,Jacques Bebey,,1967,1969
-+++,Nicolas Epée Mpondo,,1967,1967
-+++,André Michel Epée,,1969,1982
-+++,Christian Tobie Kouoh,,1982,1989
-+++,Joseph Pokossy Ndoumbe Dipita,,1989,1996
-->,Q111355907->Thomas Tobbo Eyoum,Q111355907,1996,2001
-->,Q111419917->Edouard Etonde Ekoto,Q111419917,2001,2006
-->,Ntonè Ntonè Fritz->Fritz Ntonè Ntonè,Q16269130,2006-09-30,2020
-->,Roger Mbassa Ndine,Q97162227,2020-03-04,NULL->2025
+@@,item,itemlabel,startdate,enddate
+->,Q111355907,NULL->Thomas Tobbo Eyoum,1996,2001
+->,Q111419917,NULL->Edouard Etonde Ekoto,2001,2006
+->,Q16269130,Ntonè Ntonè Fritz->Fritz Ntonè Ntonè,2006-09-30,2020
+->,Q97162227,Roger Mbassa Ndine,2020-03-04,NULL->2025
