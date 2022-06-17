@@ -10,7 +10,7 @@ class String
   end
 end
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     super - %i(arealabel partylabel)
   end
