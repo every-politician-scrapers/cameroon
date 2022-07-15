@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Cameroon",
+      "id": "Q1009"
+    },
+    "cabinet": {
+      "id": "Q60852905",
+      "start": "2019-01-04",
+      "parent": "Q5026456"
+    },
+    "source": {
+        "url":   "https://www.spm.gov.cm/site/?q=en/content/prime-minister%E2%80%99s-cabinet",
+        "title": "Prime Minister’s Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/cameroon-ministers"
+}
