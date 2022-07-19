@@ -1,0 +1,191 @@
+{
+  "title": "Dominique Awono Essama",
+  "pageID": 25720945,
+  "categories": [
+    "Cameroonian diplomats",
+    "Ambassadors of Cameroon to Italy",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dominique Awono Essama is a Cameroonian diplomat who has been Cameroon's Ambassador to Italy since 2008.",
+              "links": [
+                {
+                  "text": "Cameroonian",
+                  "type": "internal",
+                  "page": "Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italy"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dominique Awono Essama"
+                ]
+              }
+            },
+            {
+              "text": "Awono Essama graduated from the International Relations Institute of Cameroon (IRIC) and held a post at Cameroon's Embassy to the Netherlands before being moved to a post at the Embassy to the Democratic Republic of the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Relations Institute of Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Netherlands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ]
+            },
+            {
+              "text": "He was Head of State Protocol for ten years before President Paul Biya appointed him as Ambassador to Italy to replace Michael Kima Tabong on 9 June 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Biya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michael Kima Tabong"
+                }
+              ]
+            },
+            {
+              "text": "He presented his credentials to Italian President Giorgio Napolitano on 21 January 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Giorgio Napolitano"
+                }
+              ]
+            },
+            {
+              "text": "Awono Essama was additionally accredited as Permanent Representative to the Food and Agriculture Organization (FAO), based in Rome, on 21 November 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Food and Agriculture Organization"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rome"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cameroonian diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "when"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of diplomatic missions of Cameroon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of diplomatic missions of Cameroon"
+              }
+            ]
+          },
+          {
+            "text": "Politics of Cameroon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Cameroon"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Cameroon",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "cameroon-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
