@@ -1,29 +1,29 @@
-pageid,title
-392319,Paul Biya
-5543262,Laurent Esso
-6526956,Bello Bouba Maigari
-14094664,Henri Eyebe Ayissi
-19530875,Michel Tommo Monthé
-20229665,Anatole Marie Nkou
-20836608,Pierre Hélé
-20876760,Hamadou Moustapha
-21317963,René Sadi
-21796000,Mahamat Paba Salé
-24244412,Cavayé Yéguié Djibril
-24368622,Issa Tchiroma
-24725675,Grégoire Owona
-25006482,Louis-Paul Motazé
-25382436,Séraphin Magloire Fouda
-25720945,Dominique Awono Essama
-25807111,Jean-Baptiste Baskouda
-30228714,Bah Oumarou Sanda
-39660526,Marcel Niat Njifenji
-53021064,Célestine Ketcha Courtès
-56144505,Florence Rita Arrey
-58177276,Marie-Thérèse Abena Ondoa
-58177288,Pauline Irene Nguene
-58177415,Pauline Nalova Lyonga
-58202848,Narcisse Mouelle Kombi
-58208741,Luc Magloire Atangana Mbarga
-59623240,Joseph Ngute
-61316016,René Claude Meka
+pageid,title,wikidata,label
+392319,Paul Biya,Q57272,Paul Biya
+5543262,Laurent Esso,Q3219209,Laurent Esso
+6526956,Bello Bouba Maigari,Q816014,Bello Bouba Maigari
+14094664,Henri Eyebe Ayissi,Q58236,Henri Eyebe Ayissi
+19530875,Michel Tommo Monthé,Q6836587,Michel Tommo Monthé
+20229665,Anatole Marie Nkou,Q4752079,Anatole Marie Nkou
+20836608,Pierre Hélé,Q7192268,Pierre Hélé
+20876760,Hamadou Moustapha,Q5643981,Hamadou Moustapha
+21317963,René Sadi,Q3426865,René Sadi
+21796000,Mahamat Paba Salé,Q6733027,Mahamat Paba Salé
+24244412,Cavayé Yéguié Djibril,Q4160254,Cavayé Yéguié Djibril
+24368622,Issa Tchiroma,Q6087995,Issa Tchiroma
+24725675,Grégoire Owona,Q5612774,Grégoire Owona
+25006482,Louis-Paul Motazé,Q6686503,Louis-Paul Motazé
+25382436,Séraphin Magloire Fouda,Q7666054,Séraphin Magloire Fouda
+25720945,Dominique Awono Essama,Q5291100,Dominique Awono Essama
+25807111,Jean-Baptiste Baskouda,Q16188827,Jean-Baptiste Baskouda
+30228714,Bah Oumarou Sanda,Q4842199,Bah Oumarou Sanda
+39660526,Marcel Niat Njifenji,Q13468200,Marcel Niat Njifenji
+53021064,Célestine Ketcha Courtès,Q23021233,Célestine Ketcha Courtès
+56144505,Florence Rita Arrey,Q46992579,Florence Rita Arrey
+58177276,Marie-Thérèse Abena Ondoa,Q23816332,Marie-Thérèse Abena Ondoa
+58177288,Pauline Irene Nguene,Q23816326,Pauline Irène Nguene
+58177415,Pauline Nalova Lyonga,Q56224456,Pauline Nalova Lyonga
+58202848,Narcisse Mouelle Kombi,Q17496989,Narcisse Mouelle Kombi
+58208741,Luc Magloire Atangana Mbarga,Q3277042,Luc Magloire Atangana Mbarga
+59623240,Joseph Ngute,Q60441515,Joseph Ngute
+61316016,René Claude Meka,Q3426012,René Claude Meka

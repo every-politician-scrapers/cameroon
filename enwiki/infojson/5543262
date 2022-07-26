@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of External Relations"
+    },
+    "P580": "2004-12-08",
+    "P582": "2006-09-21"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of State Secretary General at the Presidency of the Republic"
+    },
+    "P580": "2006-09-22",
+    "P582": "2011-12-08",
+    "P1366": {
+      "links": [
+        "Ferdinand Ngoh Ngoh"
+      ],
+      "stated_as": "Ferdinand Ngoh Ngoh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cameroon Minister of State Minister of Justice Keeper of Seal"
+    },
+    "P580": "2011-12-09",
+    "P1365": {
+      "links": [
+        "Amadou Ali"
+      ],
+      "stated_as": "Amadou Ali"
+    }
+  }
+]

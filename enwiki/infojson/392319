@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Cameroon"
+      ],
+      "stated_as": "1st Prime Minister of Cameroon"
+    },
+    "P580": "1975-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "1982-11-06",
+    "P1366": {
+      "links": [
+        "Bello Bouba Maigari"
+      ],
+      "stated_as": "Bello Bouba Maigari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Cameroon"
+      ],
+      "stated_as": "2nd President of Cameroon"
+    },
+    "P580": "1982-11-06",
+    "P1365": {
+      "links": [
+        "Ahmadou Ahidjo"
+      ],
+      "stated_as": "Ahmadou Ahidjo"
+    }
+  }
+]
