@@ -1,0 +1,90 @@
+{
+  "title": "Bah Oumarou Sanda",
+  "pageID": 30228714,
+  "categories": [
+    "Cameroonian diplomats",
+    "Ambassadors of Cameroon to Chad",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bah Oumarou Sanda is a Cameroonian diplomat who has been Cameroon's Ambassador to Chad since February 2008.",
+              "links": [
+                {
+                  "text": "Cameroonian",
+                  "type": "internal",
+                  "page": "Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chad"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bah Oumarou Sanda"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Oumarou was Deputy Secretary-General of the National Assembly of Cameroon before President Paul Biya appointed him as Ambassador to Chad on 22 February 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paul Biya"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cameroonian diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cameroon-politician-stub"
+        }
+      ]
+    }
+  ]
+}

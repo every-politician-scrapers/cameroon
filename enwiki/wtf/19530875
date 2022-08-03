@@ -1,0 +1,243 @@
+{
+  "title": "Michel Tommo Monthé",
+  "pageID": 19530875,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "Permanent Representatives of Cameroon to the United Nations",
+    "United Nations Advisory Committee on Administrative and Budgetary Questions members",
+    "Cameroonian officials of the United Nations"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michel Tommo Monthe (born 26 March 1947) is a Cameroonian diplomat who has been Cameroon's Permanent Representative to the United Nations since 8 September 2008.",
+              "links": [
+                {
+                  "text": "Cameroonian",
+                  "type": "internal",
+                  "page": "Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Representative"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michel Tommo Monthe"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1947",
+          "month": "3",
+          "day": "26",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "H.E."
+          },
+          "name": {
+            "text": "Michel Tommo Monthe"
+          },
+          "birth_date": {
+            "text": "March 26, 1947"
+          },
+          "birth_place": {
+            "text": "Bana, Cameroon",
+            "links": [
+              {
+                "text": "Bana",
+                "type": "internal",
+                "page": "Bana, Cameroon"
+              },
+              {
+                "type": "internal",
+                "page": "Cameroon"
+              }
+            ]
+          },
+          "image": {
+            "text": "Replace this image male.svg"
+          },
+          "imagesize": {
+            "text": "150px"
+          },
+          "office": {
+            "text": "Permanent Representative to the UN for Cameroon [[image:Flag of Cameroon.svg|25px]]",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Permanent Representative"
+              },
+              {
+                "type": "internal",
+                "page": "Cameroon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 September 2008"
+          },
+          "predecessor": {
+            "text": "Martin Belinga Eboutou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Belinga Eboutou"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education and personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Bana in Cameroon, Monthe obtained bachelor of arts and masters of arts degrees at the University of Yaoundé, Cameroon.",
+              "links": [
+                {
+                  "text": "Bana",
+                  "type": "internal",
+                  "page": "Bana, Cameroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Yaoundé"
+                }
+              ]
+            },
+            {
+              "text": "He also has a doctorate in international relations from the International Relations Institute of Cameroon, University of Yaoundé II.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Relations Institute of Cameroon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Monthe is married and has six children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Monthe was the Vice Chairman of the Advisory Committee on Administrative and Budgetary Questions (ACABQ) before taking office at the United Nations."
+            },
+            {
+              "text": "His other diplomatic postings included Special Adviser to the President of the fifty-ninth session of the General Assembly; Inspector General in Cameroon's Ministry of External Relations; Chair of the Anti-Corruption Unit in the Ministry; Ministry Secretary-General; Chargé de Mission in the Diplomatic Division of the General Secretariat at the Presidency; Technical Adviser in the Ministry of External Relations; and responsibility for consular affairs in the Protocol Department."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1977 to 1989, he served a prior term in New York."
+            },
+            {
+              "text": "This term included postings as Second Secretary, First Secretary, Second Counselor and First Counselor for Cameroon's Permanent Mission to the United Nations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Politics"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Permanent Representatives to the UN",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Permanent Representatives to the UN"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "cameroon-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "un-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "United Nation Press Release Presentation of Credentials: Monthe",
+            "links": [
+              {
+                "text": "United Nation Press Release Presentation of Credentials: Monthe",
+                "type": "external",
+                "site": "https://www.un.org/News/Press/docs/2008/bio4018.doc.htm"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
